@@ -9,10 +9,27 @@
 
 | Foto | Información del Integrante |
 | :---: | :--- |
-| ![Foto Integrante 1](https://via.placeholder.com/150 "Foto Integrante 1") | **Nombre:** [Nombre del Integrante 1]<br>**Rol:** Product Owner & UX/UI Designer<br>**Descripción:** Lidera la visión del producto, los flujos de experiencia de usuario para el alquiler de autos y motos, el diseño del mapa interactivo y la interfaz del panel administrativo. |
+| ![Foto Eddo](./activos/%20imagen/Eddo.jpeg "Eddo" "Foto Integrante 1") | **Nombre:** [Eddo Su Caletti ]<br>**Rol:** Product Owner & UX/UI Designer<br>**Descripción:** Me llamo Eddo Su Caletti estudió la carrera de ingeniería de software estoy en el 5 ciclo me considero una persona amable y graciosa me encanta salir con mis amigos a pasear en bicicleta o jugar videojuegos además espero poder ser de ayuda para mis compañeros con todos los problemas que ellos tengan.|
 | ![Foto Integrante 2](https://via.placeholder.com/150 "Foto Integrante 2") | **Nombre:** [Nombre del Integrante 2]<br>**Rol:** Frontend Developer<br>**Descripción:** Encargado del desarrollo de la interfaz responsiva, integración de vistas de mapas, filtros de búsqueda por tipo de vehículo (autos/motos, eléctrico/manual) y calendarios interactivos. |
 | ![Foto Integrante 3](https://via.placeholder.com/150 "Foto Integrante 3") | **Nombre:** [Nombre del Integrante 3]<br>**Rol:** Backend Developer<br>**Descripción:** Responsable de la construcción de las APIs RESTful, lógica de la sincronización de disponibilidad de vehículos en tiempo real y la gestión del módulo de autenticación (login). |
 | ![Foto Integrante 4](https://via.placeholder.com/150 "Foto Integrante 4") | **Nombre:** [Nombre del Integrante 4]<br>**Rol:** Software Architect & Cloud Engineer<br>**Descripción:** Encargado del diseño de la arquitectura de datos para soportar la geolocalización de flotas, seguridad en la verificación de identidad e infraestructura en la nube. |
 | ![Foto Integrante 5](https://via.placeholder.com/150 "Foto Integrante 5") | **Nombre:** [Nombre del Integrante 5]<br>**Rol:** QA Analyst & Data Specialist<br>**Descripción:** Encargado de asegurar la calidad de los flujos de reserva, validaciones de disponibilidad sin solapamientos y la gestión de métricas del panel administrativo. |
+
+---
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+El mercado de alquiler de transporte personal (carros y motos) enfrenta serias ineficiencias en la coordinación entre arrendadores y clientes debido a procesos informales, falta de transparencia y lentitud en la comunicación[cite: 2].
+
+**Problemáticas identificadas:**
+* **Para los clientes:**
+  * Dificultad para localizar vehículos (carros o motos) disponibles en su zona inmediata de entrega[cite: 2].
+  * Falta de filtros claros para elegir preferencias específicas como transmisiones manuales o motorizaciones eléctricas[cite: 2].
+  * Incertidumbre sobre la disponibilidad real del vehículo al coordinar[cite: 2].
+
+* **Para los rentadores:**
+  * Ausencia de herramientas para gestionar la disponibilidad de su flota en tiempo real sin cruce de fechas[cite: 2].
+  * Carencia de paneles de control para medir el desempeño de su negocio (transacciones completadas y volumen de vehículos)[cite: 2].
+  * Inseguridad al entregar vehículos sin un proceso claro de autenticación y verificación de identidad[cite: 2].
 
 ---

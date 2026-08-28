@@ -214,3 +214,31 @@ Distrito:
 ### 2.4. Big Picture EventStorming.
 
 ### 2.5. Ubiquitous Language.
+
+A continuación, se presenta el glosario de términos centrales correspondientes al dominio de la plataforma Veygo. Este vocabulario busca establecer definiciones claras y consistentes para los conceptos utilizados por propietarios, arrendatarios, stakeholders y miembros del equipo durante el desarrollo del proyecto, evitando ambigüedades en la comunicación.
+
+| Término (Inglés) | Término (Español) | Definición clara y compartida |
+|---|---|---|
+| **Owner** | Propietario | Persona que posee uno o más vehículos y los ofrece en alquiler a través del modelo de negocio de Veygo. |
+| **Renter** | Arrendatario | Persona que busca alquilar un vehículo por un periodo determinado para satisfacer una necesidad de transporte. |
+| **Vehicle** | Vehículo | Automóvil perteneciente a un propietario que puede ser ofrecido para alquiler cuando se encuentra disponible. |
+| **Vehicle Listing** | Publicación de vehículo | Información mediante la cual un propietario ofrece un vehículo para alquiler, incluyendo sus características, condiciones, ubicación y disponibilidad. |
+| **Rental** | Alquiler | Acuerdo mediante el cual un arrendatario obtiene temporalmente el uso de un vehículo perteneciente a un propietario bajo determinadas condiciones. |
+| **Booking** | Reserva | Solicitud mediante la cual un arrendatario aparta un vehículo disponible para un periodo determinado. |
+| **Availability** | Disponibilidad | Estado que indica si un vehículo puede ser alquilado durante una fecha o periodo específico. |
+| **Rental Period** | Periodo de alquiler | Intervalo comprendido entre la fecha y hora acordadas para el inicio del alquiler y la fecha y hora establecidas para su finalización. |
+| **Pickup** | Entrega / Recojo | Momento en el que el arrendatario recibe el vehículo del propietario para iniciar el periodo de alquiler. |
+| **Return** | Devolución | Momento en el que el arrendatario entrega nuevamente el vehículo al propietario al finalizar el periodo acordado. |
+| **Pickup Location** | Punto de entrega / recojo | Lugar acordado entre propietario y arrendatario donde se realiza la entrega inicial del vehículo. |
+| **Vehicle Location** | Ubicación del vehículo | Zona o posición asociada a un vehículo y utilizada para determinar su proximidad respecto al arrendatario o al punto de entrega. |
+| **Identity Verification** | Verificación de identidad | Proceso mediante el cual se comprueba la identidad de una persona antes de participar en una operación de alquiler. |
+| **Driver's License** | Licencia de conducir | Documento que acredita que una persona se encuentra autorizada para conducir un vehículo según las condiciones correspondientes. |
+| **Rental Rate** | Tarifa de alquiler | Importe establecido para alquilar un vehículo durante un periodo determinado. |
+| **Transaction** | Transacción | Operación económica originada como consecuencia de un alquiler acordado entre un propietario y un arrendatario. |
+| **Payment** | Pago | Entrega del importe correspondiente al alquiler de un vehículo según las condiciones acordadas. |
+| **Cancellation** | Cancelación | Finalización de una reserva antes del inicio del periodo de alquiler por decisión de alguna de las partes o por una condición establecida. |
+| **Booking Status** | Estado de reserva | Situación en la que se encuentra una reserva durante su ciclo de vida, por ejemplo: pendiente, confirmada, cancelada o completada. |
+| **Vehicle Status** | Estado del vehículo | Condición operativa de un vehículo respecto al proceso de alquiler, como disponible, reservado, alquilado o no disponible. |
+| **Vehicle Category** | Categoría de vehículo | Clasificación utilizada para distinguir vehículos según características relevantes para el alquiler. |
+| **Transmission Type** | Tipo de transmisión | Característica que identifica el sistema de transmisión del vehículo, como manual o automático. |
+| **Electric Vehicle** | Vehículo eléctrico | Vehículo cuyo sistema de propulsión utiliza principalmente energía eléctrica almacenada en baterías. |

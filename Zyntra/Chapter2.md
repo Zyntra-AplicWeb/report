@@ -1,9 +1,59 @@
 ## Capítulo 2: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
+Previo al desarrollo de Veygo, nuestra aplicación de alquiler de autos, realizamos una búsqueda de las opciones que ya existen en el mercado, tanto locales como internacionales, con el fin de identificar qué funcionalidades ofrecen. Esta búsqueda nos permite entender el estado actual del sector y detectar los vacíos que nuestra propuesta puede cubrir.
+
+- **Turo:** Plataforma internacional de alquiler de autos entre particulares (peer-to-peer). Permite a los propietarios publicar sus vehículos indicando disponibilidad mediante un calendario, mientras que los arrendatarios pueden filtrar por características del vehículo (tipo de transmisión, combustible, marca) y reservar directamente desde la app. Exige verificación de identidad y licencia de conducir antes de completar una reserva.
+
+- **Getaround:** Servicio de carsharing que destaca por permitir a los usuarios ubicar vehículos disponibles cerca de su posición mediante un mapa interactivo, además de ofrecer acceso sin llaves físicas (keyless) mediante la app. Su verificación de identidad es un paso obligatorio antes del primer alquiler.
+
+- **Peru Rent A Car:** Esta plataforma se especializa en el alquiler de autos en Perú. Ofrece una amplia gama de vehículos y opciones de alquiler, así como información sobre destinos turísticos en Perú. La plataforma permite a los usuarios comparar precios y reservar coches en línea, aunque carece de un mapa de proximidad o de un panel de métricas visible para los propietarios.
+
+
 #### 2.1.1. Análisis competitivo.
+|  | Competitive Analysis Landscape |
+|---|---|
+| ¿Por qué llevar a cabo este análisis? | Entender cómo Turo, Getaround y Peru Rent A Car resuelven hoy la verificación de identidad, la disponibilidad de vehículos, el filtrado por tipo de auto, el control administrativo del propietario y la coordinación del punto de entrega, para confirmar en qué puntos Veygo puede diferenciarse. |
+
+| | | Veygo | Turo | Getaround | Peru Rent A Car |
+| --- | --- | --- | --- | --- | --- |
+| Perfil | Resumen | Aplicación que busca ofrecer una plataforma rápida y ágil para el alquiler de autos, con verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo, panel administrativo con métricas y mapa de vehículos cercanos. | Plataforma líder en alquiler de autos entre particulares, con calendario de disponibilidad y filtros de búsqueda. | Servicio de carsharing enfocado en la localización de vehículos cercanos mediante mapa y acceso keyless. | Plataforma local que presenta un catálogo de vehículos para alquilar, con atención mediante WhatsApp. |
+|  | Ventaja competitiva | Integra en una sola plataforma la verificación de identidad, el calendario actualizado, el filtrado por tipo de vehículo, el panel de métricas para el propietario y el mapa de cercanía para la entrega. | Amplia base de usuarios y flota disponible en varios países. | Fuerte enfoque en la geolocalización y la experiencia sin contacto. | Conocimiento del mercado local y trato directo con el cliente. |
+| Perfil de Marketing | Mercado objetivo | Jóvenes y adultos desde los 20 a los 50 años, tanto propietarios como arrendatarios de vehículos en Perú. | Viajeros y particulares que buscan alquilar o rentar su propio vehículo. | Usuarios urbanos que necesitan un vehículo por periodos cortos. | Adultos peruanos que buscan alquilar un vehículo. |
+|  | Estrategias de marketing | Marketing digital en redes sociales y colaboraciones con influencers. | Marketing digital y alianzas con aerolíneas/hoteles. | Publicidad digital enfocada en ciudades con alta congestión vehicular. | Patrocinio mediante búsquedas de Chrome. |
+| Perfil de Producto | Productos y Servicios | Login con verificación de identidad, calendario de disponibilidad actualizado en tiempo real, filtro por tipo de carro (eléctrico, manual), panel administrativo con métricas (transacciones completadas, carros totales) y mapa de vehículos cercanos para la entrega. | Publicación de vehículos con calendario, mensajería entre usuarios, filtros de búsqueda por características. | Localización de vehículos en mapa, apertura remota del vehículo, tarificación por minuto/hora. | Catálogo de vehículos disponibles, atención directa por WhatsApp. |
+|  | Precios y Costos | Comisión por transacción completada entre propietario y cliente. | Comisión variable según protección elegida por el propietario. | Tarifa por tiempo de uso más comisión de plataforma. | Ingreso directo mediante el alquiler. |
+|  | Canales de distribución | Disponible en línea a través de la aplicación web y móvil. | Aplicación móvil y plataforma web. | Aplicación móvil. | Disponible en línea a través de la aplicación web. |
+| Análisis FODA | Fortalezas | Verificación de identidad integrada, calendario en tiempo real, filtros específicos, panel de métricas y mapa de cercanía en una sola solución. | Gran cantidad de usuarios y flota, sistema de reputación consolidado. | Experiencia de geolocalización madura y acceso keyless. | Plataforma local, atención directa. |
+|  | Debilidades | Nuevo competidor en un sector con jugadores ya establecidos. | Proceso de verificación puede resultar largo para nuevos usuarios. | Cobertura limitada a ciudades con alta densidad de vehículos. | No cuenta con calendario visible ni mapa de proximidad. |
+|  | Oportunidades | Sin competidores locales que integren simultáneamente estos cinco flujos. | Expansión a nuevos mercados. | Alianzas con municipalidades para zonas de estacionamiento. | Digitalizar procesos hoy manuales (WhatsApp, Excel). |
+|  | Amenazas | Sector competitivo con jugadores internacionales de gran escala. | Regulaciones locales sobre alquiler entre particulares. | Altos costos de mantenimiento de flota propia. | Ingreso de competidores con mejor tecnología. |
 
 #### 2.1.2 Estrategias y tácticas frente a competidores.
+
+A partir del Análisis FODA, se plantean las siguientes estrategias y tácticas preliminares que Veygo aplicará para afrontar las fortalezas de sus competidores, aprovechar sus debilidades, y actuar en el contexto de oportunidades y amenazas identificado:
+ 
+**Frente a las fortalezas de los competidores:**
+ 
+- Frente a la amplia base de usuarios y flota de **Turo**, Veygo se enfocará inicialmente en el mercado local peruano, ofreciendo una propuesta de valor integral (identidad, calendario, filtros, panel y mapa) que ningún competidor local replica hoy, en lugar de competir directamente por volumen de usuarios internacionales.
+- Frente a la experiencia de geolocalización madura de **Getaround**, Veygo incorporará desde el inicio el mapa de vehículos cercanos como un flujo central del producto, y no como una función adicional, para no quedar rezagada en este aspecto.
+- Frente al conocimiento del mercado local y el trato directo de **Peru Rent A Car**, Veygo mantendrá canales de soporte cercanos al usuario (chat dentro de la app) mientras digitaliza los procesos que hoy esa competencia resuelve manualmente.
+
+**Para aprovechar las debilidades de los competidores:**
+ 
+- El proceso de verificación largo que reportan usuarios de **Turo** se aprovechará ofreciendo un login de verificación de identidad más ágil, como diferenciador de experiencia de usuario.
+- La cobertura limitada de **Getaround** a zonas de alta densidad vehicular se aprovechará priorizando el despliegue de Veygo en distritos donde la oferta de plataformas de carsharing es escasa.
+- La falta de calendario visible y de mapa de proximidad en **Peru Rent A Car** se aprovechará comunicando activamente estos dos flujos como ventajas clave en la promoción de Veygo frente a este tipo de competidores locales.
+
+**En el contexto de oportunidades:**
+ 
+- Se aprovechará la ausencia de competidores locales que integren los cinco flujos priorizados para posicionar a Veygo como la primera plataforma peruana de alquiler de autos con verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo, panel administrativo y mapa de cercanía en un solo producto.
+- Se aprovechará la necesidad de digitalizar procesos hoy manuales (WhatsApp, Excel) entre propietarios locales, ofreciendo una migración simple desde estas herramientas hacia el panel administrativo de Veygo.
+
+**En el contexto de amenazas:**
+ 
+- Frente al riesgo de que jugadores internacionales (Turo, Getaround) ingresen agresivamente al mercado peruano, Veygo buscará consolidar una base de propietarios y clientes locales fieles antes de que estos competidores prioricen la región.
+- Frente a posibles regulaciones locales sobre el alquiler de vehículos entre particulares, Veygo incorporará la verificación de identidad y el registro documentario como parte de su cumplimiento normativo desde el diseño del producto
 
 ### 2.2. Entrevistas.
 

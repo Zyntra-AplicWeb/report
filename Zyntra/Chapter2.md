@@ -59,7 +59,145 @@ A partir del Análisis FODA, se plantean las siguientes estrategias y tácticas 
 
 #### 2.2.1 Diseño de entrevistas.
 
+**Segmento 1 (Dueño/Rentador de vehículo):**
+**Preguntas de información general:**
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+**Preguntas sobre el alquiler de sus vehículos:**
+
+- ¿Qué tipo de documento exige para proceder con el alquiler?
+- ¿Qué tipo de vehículo ofrece para el alquiler (transmisión manual, automática, eléctrico)?
+- ¿Cuál es la cantidad mínima y máxima de tiempo que permite alquilar tu vehículo?
+- ¿Cómo llevas el control de la disponibilidad de tus vehículos (alquilados vs. libres)?
+
+**Preguntas sobre verificación de identidad:**
+
+- ¿Verificas la identidad del cliente antes de entregar el vehículo? ¿Cómo lo haces actualmente?
+- ¿Confiarías en un sistema de login con verificación de identidad integrada para filtrar clientes antes del primer contacto?
+
+**Preguntas sobre calendario de disponibilidad:**
+
+- ¿Usas algún calendario o registro para saber cuándo tu auto está ocupado?
+- ¿Qué tan importante sería para ti que ese calendario se actualice automáticamente cuando se confirma un alquiler?
+
+**Preguntas sobre panel administrativo y métricas:**
+
+- ¿Te gustaría contar con un panel donde puedas ver cuántas transacciones has completado y cuántos vehículos tienes registrados?
+- ¿Qué otra información te gustaría visualizar en un panel de control como propietario?
+
+**Preguntas sobre mapa y ubicación:**
+
+- ¿Actualmente cómo coordinas el punto de entrega del vehículo con tus clientes?
+- ¿Te resultaría útil que tu vehículo aparezca en un mapa para que los clientes cercanos a la zona de entrega lo encuentren más fácilmente?
+
+**Preguntas sobre la plataforma:**
+
+- ¿Qué tipo de plataforma usas actualmente para ofrecer tu vehículo?
+- ¿En qué dispositivos accedes a dichas plataformas?
+- ¿Consideras que las aplicaciones actuales te dan facilidades para identificar clientes confiables?
+- ¿Estarías dispuesto a migrar a **Veygo**, una nueva plataforma que integre verificación de identidad, calendario, panel de métricas y mapa de entrega?
+
+**Segmento 2 (Cliente/Arrendatario que busca alquilar un vehículo):**
+
+**Preguntas de información general:**
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+**Preguntas sobre el alquiler de vehículos:**
+
+- ¿Qué tipo de documento te suelen exigir para proceder con el alquiler?
+- ¿Qué tipo de vehículo prefieres alquilar (manual, automático, eléctrico)? ¿Por qué?
+- ¿Qué restricciones se te imponen habitualmente antes del alquiler?
+
+**Preguntas sobre verificación de identidad:**
+
+- ¿Qué tan cómodo te sientes verificando tu identidad para acceder a un servicio de alquiler?
+- ¿Confiarías más en un arrendador si supieras que su identidad también fue verificada por la plataforma?
+
+**Preguntas sobre calendario de disponibilidad:**
+
+- ¿Sueles consultar con anticipación si un vehículo está disponible en las fechas que necesitas?
+- ¿Qué tan frustrante te resulta cuando un auto que parecía disponible finalmente no lo está?
+
+**Preguntas sobre filtrado por tipo de vehículo:**
+
+- ¿Con qué criterios sueles filtrar tu búsqueda de vehículos (transmisión, tipo de combustible, tamaño)?
+- ¿Te interesaría poder filtrar específicamente por autos eléctricos o de transmisión manual?
+
+**Preguntas sobre mapa y ubicación:**
+
+- ¿Qué tan importante es para ti que el vehículo esté cerca de tu ubicación al momento de la entrega?
+- ¿Te gustaría ver en un mapa los vehículos disponibles más cercanos a tu zona?
+
+**Preguntas sobre la plataforma:**
+
+- ¿Qué tipo de plataforma usas actualmente para buscar vehículos?
+- ¿En qué dispositivos accedes a dichas plataformas?
+- ¿Consideras que las aplicaciones actuales te dan facilidades para identificar vehículos o arrendadores confiables?
+- ¿Estarías dispuesto a usar Veygo, una nueva plataforma que integre verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo y mapa de cercanía?
+
 #### 2.2.2 Registro de entrevistas.
+
+**Segmento Objetivo 1: Arrendador de vehículo**
+
+**Entrevista 1**
+Nombre completo: 
+Edad:
+Papel desempeñado:
+Distrito: 
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
+
+**Entrevista 2**
+Nombre completo: 
+Edad:
+Papel desempeñado:
+Distrito: 
+
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
+
+**Segmento Objetivo 2: **
+
+**Entrevista 1**
+Nombre completo: 
+Edad:
+Papel desempeñado:
+Distrito: 
+
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
+
+**Entrevista 2**
+Nombre completo: 
+Edad: 
+Papel desempeñado:
+Distrito: 
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
 
 #### 2.2.3 Análisis de entrevistas.
 

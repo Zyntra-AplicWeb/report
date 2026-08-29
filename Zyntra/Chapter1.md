@@ -14,7 +14,7 @@ puedan interactuar de una manera rápida y sencilla.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto de Perfil | Información del Integrante |
-| :---: | :---: |
+| :---: | :--- |
 | ![Foto Eddo](assets/img/Eddo.jpeg) | **Nombre:** Eddo Su Caletti <br>**Rol:** Product Owner & UX/UI Designer<br>**Descripción:** Me llamo Eddo Su Caletti estudió la carrera de ingeniería de software estoy en el 5 ciclo me considero una persona amable y graciosa me encanta salir con mis amigos a pasear en bicicleta o jugar videojuegos además espero poder ser de ayuda para mis compañeros con todos los problemas que ellos tengan.|
 | ![Foto Ivonne](assets/img/ivonne.png "Ivonne") | **Nombre:** Ivonne Beatriz Ibañez Torres<br>**Rol:** FullStack Developer<br>**Descripción:** Sexto ciclo de la carrera de Ingeniería de software. Encargada del desarrollo de la interfaz responsive, integración de vistas de mapas, filtros de búsqueda por tipo de vehículo (autos/motos, eléctrico/manual) y calendarios interactivos. Con manejo en C++ y Python, conocimientos en diseño y patrones de software, PostgreSQL, MongoDB, Java ,Spring Boot y Node.js.|
 | ![Foto Integrante 3](https://via.placeholder.com/150 "Foto Integrante 3") | **Nombre:** [Nombre del Integrante 3]<br>**Rol:** Backend Developer<br>**Descripción:** Responsable de la construcción de las APIs RESTful, lógica de la sincronización de disponibilidad de vehículos en tiempo real y la gestión del módulo de autenticación (login). |
@@ -179,6 +179,7 @@ Sabremos que tenemos éxito cuando observemos un incremento en el número de usu
 Veygo identifica dos segmentos objetivo complementarios dentro del dominio del alquiler de vehículos entre particulares: clientes que necesitan alquilar un vehículo y propietarios (particulares o pequeñas agencias) que buscan generar ingresos alquilando sus vehículos
 
 **Segmento 1: Clientes (arrendatarios)**
+
 _Características demográficas:_
 Jóvenes y adultos, principalmente entre 25 y 44 años, residentes en Lima Metropolitana.
 Perfil urbano, con acceso a smartphone y medios de pago digitales.

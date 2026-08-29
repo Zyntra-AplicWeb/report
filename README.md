@@ -1,6 +1,6 @@
 <div align = "center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
+  <img style="height: 200px" src="Zyntra/assets/img/UPClogo.png">
   <h2 >Carrera: de Ingeniería de Software</h2>
   <h2 >Ciclo: 2026-02</h2>
   <br>
@@ -24,17 +24,22 @@
   <h4>Agosto del 2026</h4>
 </div>
 
+---
+<center>
+
 ## Registro de Versiones del Informe
 
 | Versión | Fecha       | Autor                                            | Descripción de modificación |
-|---------|-------------|--------------------------------------------------|-----------------------------|
+|:---:|:---:|:---:|:---:|
 | 0.1     | 24/08/2026  | Todos los integrantes                            | Primer sprint TB1           |
 
 | URL de la organización del proyecto |      URL del repositorio del reporte       |
-|:-----------------------------------:|:------------------------------------------:|
+|:---:|:---:|
 | https://github.com/Zyntra-AplicWeb | https://github.com/Zyntra-AplicWeb/report.git |
 
+</center>
 
+<!--falta actualizar los indices, recomeindo hacerlo al final -ivn -->
 
 - [Student Outcome](#student-outcome)
 

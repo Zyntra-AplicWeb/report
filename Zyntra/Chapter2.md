@@ -213,6 +213,28 @@ Distrito:
 
 ### 2.4. Big Picture EventStorming.
 
+Con el objetivo de comprender de manera general el dominio de negocio de Veygo, el equipo realizó un Big Picture EventStorming enfocado en el proceso de alquiler de vehículos, durante esta actividad se identificaron los principales eventos del dominio, los problemas que pueden presentarse durante el proceso y las oportunidades de mejora asociadas.
+
+#### Identificación y organización de eventos del dominio
+
+En una primera etapa se identificaron y organizaron cronológicamente los eventos más relevantes del negocio. Para ello, se consideraron los principales procesos involucrados en el alquiler de vehículos: el registro de propietarios y arrendatarios, la gestión y disponibilidad de vehículos, la búsqueda y selección de vehículos, la gestión de reservas, la ejecución del alquiler y la finalización de la transacción.
+
+Los eventos identificados fueron organizados de acuerdo con el flujo general del negocio, permitiendo visualizar cómo se relacionan las acciones realizadas por propietarios y arrendatarios durante el proceso de alquiler.
+
+![Identificación de eventos del dominio de Veygo](assets/img/big-picture-eventstorming-events-veygo.png)
+
+#### Identificación de hotspots y oportunidades
+
+En una segunda etapa se analizaron los eventos previamente identificados con la finalidad de reconocer posibles problemas o *hotspots* dentro del dominio.
+
+Entre los principales problemas encontrados se identificaron la posible desactualización de la disponibilidad de los vehículos, retrasos durante la verificación de identidad, solicitudes simultáneas de un mismo vehículo, dificultades en la coordinación del punto de entrega y posibles diferencias en el estado del vehículo después de finalizar un alquiler.
+
+A partir de estos hotspots se identificaron oportunidades de mejora, entre las que se encuentran una verificación de identidad más ágil, la sincronización de disponibilidad en tiempo real, la búsqueda de vehículos cercanos, la prevención automática de conflictos de reserva, la coordinación centralizada de la entrega y la verificación del estado del vehículo.
+
+![Big Picture EventStorming de Veygo](assets/img/big-picture-eventstorming-veygo.png)
+
+El resultado del Big Picture EventStorming permite visualizar de manera integral los principales procesos que forman parte del dominio de alquiler de vehículos de Veygo, así como la relación entre sus eventos, problemas y oportunidades, esta representación proporciona una visión general del negocio y servirá como referencia para las siguientes etapas de análisis y modelado del proyecto.
+
 ### 2.5. Ubiquitous Language.
 
 A continuación, se presenta el glosario de términos centrales correspondientes al dominio de la plataforma Veygo. Este vocabulario busca establecer definiciones claras y consistentes para los conceptos utilizados por propietarios, arrendatarios, stakeholders y miembros del equipo durante el desarrollo del proyecto, evitando ambigüedades en la comunicación.

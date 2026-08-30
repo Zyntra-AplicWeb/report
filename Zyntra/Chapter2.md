@@ -172,18 +172,23 @@ Distrito:
 **Transcripción resumen de entrevista:**
 
 
-**Segmento Objetivo 2: **
+**Segmento Objetivo 2:**
 
 **Entrevista 1**
+
 Nombre completo: Andre Perez
+
 Edad: 19 años
+
 Papel desempeñado: Arrendatario
+
 Distrito: Comas
+
 Ocupación: Estudiante universitario (UPC)
  
 **Detalles de la entrevista:**
  
-[URL de la entrevista] — Duración de la entrevista: [7:37]
+[[URL de la entrevista](https://youtu.be/C-CCBMB-hx8?si=CsbbWmsPkPQl6bDD)] — Duración de la entrevista: [7:37]
  
 **Transcripción resumen de entrevista:**
 Andre suele alquilar vehículos de transmisión manual, ya que prefiere evitar autos automáticos o eléctricos por considerar que tienden a malograrse con mayor frecuencia. Indica que las plataformas que usa habitualmente le exigen DNI, licencia de conducir vigente y datos personales, además de ser mayor de edad y cumplir con las condiciones que impone cada propietario.

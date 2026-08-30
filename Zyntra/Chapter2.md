@@ -175,18 +175,29 @@ Distrito:
 **Segmento Objetivo 2: **
 
 **Entrevista 1**
-Nombre completo: 
-Edad:
-Papel desempeñado:
-Distrito: 
-
-
+Nombre completo: Andre Perez
+Edad: 19 años
+Papel desempeñado: Arrendatario
+Distrito: Comas
+Ocupación: Estudiante universitario (UPC)
+ 
 **Detalles de la entrevista:**
-
-
+ 
+[URL de la entrevista] — Duración de la entrevista: [7:37]
+ 
 **Transcripción resumen de entrevista:**
-
-
+Andre suele alquilar vehículos de transmisión manual, ya que prefiere evitar autos automáticos o eléctricos por considerar que tienden a malograrse con mayor frecuencia. Indica que las plataformas que usa habitualmente le exigen DNI, licencia de conducir vigente y datos personales, además de ser mayor de edad y cumplir con las condiciones que impone cada propietario.
+ 
+Respecto a la **verificación de identidad**, se siente cómodo compartiendo sus datos siempre que se le explique para qué serán usados, y señala que confiaría más en un arrendador si supiera que su identidad también fue verificada por la plataforma, ya que esto le daría mayor seguridad antes de alquilar un vehículo.
+ 
+Sobre el **calendario de disponibilidad**, comenta que normalmente verifica con anticipación si un vehículo está disponible para la fecha que necesita (ya sea por una reunión o una emergencia), y que le resulta muy frustrante cuando un auto que parecía disponible finalmente no lo está, porque le desorganiza sus planes.
+ 
+En cuanto al **filtrado por tipo de vehículo**, suele filtrar por precio, tipo de transmisión y consumo de combustible según la ocasión de uso, y le interesaría poder filtrar específicamente por autos eléctricos o de transmisión manual para adaptarse mejor a cada situación.
+ 
+Sobre el **mapa de cercanía**, considera muy importante que el vehículo esté cerca de su ubicación al momento de la entrega, ya que de lo contrario tendría que invertir más tiempo en llegar hasta él; le parecería muy útil poder ver en un mapa los vehículos disponibles más cercanos a su zona.
+ 
+Actualmente usa sobre todo páginas web y redes sociales para buscar vehículos, y siente que estas plataformas no siempre brindan suficiente información sobre el vehículo o sobre la persona que alquila, lo que genera desconfianza. Ante esto, se mostró dispuesto a usar Veygo, señalando que integra funcionalidades útiles que facilitarían el proceso de alquiler de un vehículo.
+ 
 **Entrevista 2**
 Nombre completo: 
 Edad: 

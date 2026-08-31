@@ -188,7 +188,7 @@ Ocupación: Estudiante universitario (UPC)
  
 **Detalles de la entrevista:**
 
-[Foto Entrevista](assets/img/Entrevista-Segmento2.jpeg) <br>
+![Foto Entrevista](assets/img/Entrevista-Segmento2.jpeg) <br>
 [[URL de la entrevista](https://youtu.be/C-CCBMB-hx8?si=CsbbWmsPkPQl6bDD)] — Duración de la entrevista: [7:37]
  
 **Transcripción resumen de entrevista:**

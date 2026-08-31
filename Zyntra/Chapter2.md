@@ -59,49 +59,7 @@ A partir del Análisis FODA, se plantean las siguientes estrategias y tácticas 
 
 #### 2.2.1 Diseño de entrevistas.
 
-**Segmento 1 (Dueño/Rentador de vehículo):**
-**Preguntas de información general:**
-
-- ¿Cuál es tu nombre?
-- ¿Cuántos años tienes?
-- ¿En qué distrito vives?
-- ¿A qué te dedicas actualmente?
-
-**Preguntas sobre el alquiler de sus vehículos:**
-
-- ¿Qué tipo de documento exige para proceder con el alquiler?
-- ¿Qué tipo de vehículo ofrece para el alquiler (transmisión manual, automática, eléctrico)?
-- ¿Cuál es la cantidad mínima y máxima de tiempo que permite alquilar tu vehículo?
-- ¿Cómo llevas el control de la disponibilidad de tus vehículos (alquilados vs. libres)?
-
-**Preguntas sobre verificación de identidad:**
-
-- ¿Verificas la identidad del cliente antes de entregar el vehículo? ¿Cómo lo haces actualmente?
-- ¿Confiarías en un sistema de login con verificación de identidad integrada para filtrar clientes antes del primer contacto?
-
-**Preguntas sobre calendario de disponibilidad:**
-
-- ¿Usas algún calendario o registro para saber cuándo tu auto está ocupado?
-- ¿Qué tan importante sería para ti que ese calendario se actualice automáticamente cuando se confirma un alquiler?
-
-**Preguntas sobre panel administrativo y métricas:**
-
-- ¿Te gustaría contar con un panel donde puedas ver cuántas transacciones has completado y cuántos vehículos tienes registrados?
-- ¿Qué otra información te gustaría visualizar en un panel de control como propietario?
-
-**Preguntas sobre mapa y ubicación:**
-
-- ¿Actualmente cómo coordinas el punto de entrega del vehículo con tus clientes?
-- ¿Te resultaría útil que tu vehículo aparezca en un mapa para que los clientes cercanos a la zona de entrega lo encuentren más fácilmente?
-
-**Preguntas sobre la plataforma:**
-
-- ¿Qué tipo de plataforma usas actualmente para ofrecer tu vehículo?
-- ¿En qué dispositivos accedes a dichas plataformas?
-- ¿Consideras que las aplicaciones actuales te dan facilidades para identificar clientes confiables?
-- ¿Estarías dispuesto a migrar a **Veygo**, una nueva plataforma que integre verificación de identidad, calendario, panel de métricas y mapa de entrega?
-
-**Segmento 2 (Cliente/Arrendatario que busca alquilar un vehículo):**
+**Segmento 1 (Clientes/Arrendatarios):**
 
 **Preguntas de información general:**
 
@@ -143,36 +101,51 @@ A partir del Análisis FODA, se plantean las siguientes estrategias y tácticas 
 - ¿Consideras que las aplicaciones actuales te dan facilidades para identificar vehículos o arrendadores confiables?
 - ¿Estarías dispuesto a usar Veygo, una nueva plataforma que integre verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo y mapa de cercanía?
 
+**Segmento 2 (Propietarios particulares/Arrendadores):** <br>
+**Preguntas de información general:**
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+**Preguntas sobre el alquiler de sus vehículos:**
+
+- ¿Qué tipo de documento exige para proceder con el alquiler?
+- ¿Qué tipo de vehículo ofrece para el alquiler (transmisión manual, automática, eléctrico)?
+- ¿Cuál es la cantidad mínima y máxima de tiempo que permite alquilar tu vehículo?
+- ¿Cómo llevas el control de la disponibilidad de tus vehículos (alquilados vs. libres)?
+
+**Preguntas sobre verificación de identidad:**
+
+- ¿Verificas la identidad del cliente antes de entregar el vehículo? ¿Cómo lo haces actualmente?
+- ¿Confiarías en un sistema de login con verificación de identidad integrada para filtrar clientes antes del primer contacto?
+
+**Preguntas sobre calendario de disponibilidad:**
+
+- ¿Usas algún calendario o registro para saber cuándo tu auto está ocupado?
+- ¿Qué tan importante sería para ti que ese calendario se actualice automáticamente cuando se confirma un alquiler?
+
+**Preguntas sobre panel administrativo y métricas:**
+
+- ¿Te gustaría contar con un panel donde puedas ver cuántas transacciones has completado y cuántos vehículos tienes registrados?
+- ¿Qué otra información te gustaría visualizar en un panel de control como propietario?
+
+**Preguntas sobre mapa y ubicación:**
+
+- ¿Actualmente cómo coordinas el punto de entrega del vehículo con tus clientes?
+- ¿Te resultaría útil que tu vehículo aparezca en un mapa para que los clientes cercanos a la zona de entrega lo encuentren más fácilmente?
+
+**Preguntas sobre la plataforma:**
+
+- ¿Qué tipo de plataforma usas actualmente para ofrecer tu vehículo?
+- ¿En qué dispositivos accedes a dichas plataformas?
+- ¿Consideras que las aplicaciones actuales te dan facilidades para identificar clientes confiables?
+- ¿Estarías dispuesto a migrar a **Veygo**, una nueva plataforma que integre verificación de identidad, calendario, panel de métricas y mapa de entrega?
+
 #### 2.2.2 Registro de entrevistas.
 
-**Segmento Objetivo 1: Arrendador de vehículo**
-
-**Entrevista 1**
-Nombre completo: 
-Edad:
-Papel desempeñado:
-Distrito: 
-
-**Detalles de la entrevista:**
-
-
-**Transcripción resumen de entrevista:**
-
-
-**Entrevista 2**
-Nombre completo: 
-Edad:
-Papel desempeñado:
-Distrito: 
-
-
-**Detalles de la entrevista:**
-
-
-**Transcripción resumen de entrevista:**
-
-
-**Segmento Objetivo 2:**
+**Segmento Objetivo 1: Clientes (Arrendatarios)**
 
 **Entrevista 1**
 
@@ -203,6 +176,35 @@ En cuanto al **filtrado por tipo de vehículo**, suele filtrar por precio, tipo 
 Sobre el **mapa de cercanía**, considera muy importante que el vehículo esté cerca de su ubicación al momento de la entrega, ya que de lo contrario tendría que invertir más tiempo en llegar hasta él; le parecería muy útil poder ver en un mapa los vehículos disponibles más cercanos a su zona.
  
 Actualmente usa sobre todo páginas web y redes sociales para buscar vehículos, y siente que estas plataformas no siempre brindan suficiente información sobre el vehículo o sobre la persona que alquila, lo que genera desconfianza. Ante esto, se mostró dispuesto a usar Veygo, señalando que integra funcionalidades útiles que facilitarían el proceso de alquiler de un vehículo.
+
+
+**Entrevista 2**
+Nombre completo: 
+Edad:
+Papel desempeñado:
+Distrito: 
+
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
+
+**Segmento Objetivo 2: Propietarios particulares (arrendadores)**
+
+**Entrevista 1**
+Nombre completo: 
+Edad:
+Papel desempeñado:
+Distrito: 
+
+**Detalles de la entrevista:**
+
+
+**Transcripción resumen de entrevista:**
+
+
  
 **Entrevista 2**
 Nombre completo: 

@@ -42,3 +42,24 @@ En esta sección se definen las Historias de Usuario (User Stories) estructurada
 | **US-04** | **Como:** Cliente con preferencias específicas de conducción.<br>**Quiero:** Filtrar el catálogo por tipo de transmisión (manual) y motorización (eléctrica).<br>**Para:** Encontrar rápidamente vehículos que se adapten a mis requerimientos de uso. | **Dado que** el cliente se encuentra en la pantalla de exploración de vehículos,<br>**Cuando** seleccione los filtros "Transmisión Manual" y "Motor Eléctrico",<br>**Entonces** el catálogo y el mapa actualizarán sus resultados mostrando únicamente los vehículos que cumplan ambos criterios. |
 
 ---
+#### EP-06: Calendario Dinámico y Gestión de Disponibilidad
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-05** | **Como:** Propietario de un vehículo.<br>**Quiero:** Que el calendario del vehículo bloquee automáticamente las fechas confirmadas para alquiler.<br>**Para:** Evitar el cruce de fechas o dobles reservas sobre una misma unidad. | **Dado que** una reserva ha sido confirmada por el propietario,<br>**Cuando** un cliente consulte el calendario de disponibilidad de ese vehículo,<br>**Entonces** el sistema mostrará las fechas ocupadas en color rojo/deshabilitado e impedirá seleccionar ese rango de días. |
+
+---
+
+#### EP-08: Panel Administrativo y Métricas para Propietarios
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-06** | **Como:** Propietario (Arrendador).<br>**Quiero:** Visualizar un panel administrativo con el resumen del total de vehículos activos y transacciones completadas.<br>**Para:** Monitorear el desempeño operativo y financiero de mi actividad de alquiler. | **Dado que** el propietario ingresa a la sección "Panel Administrativo",<br>**Cuando** cargue el tablero principal,<br>**Entonces** la interfaz presentará indicadores clave (KPIs) con el número de vehículos registrados, reservas completadas e ingresos acumulados. |
+
+---
+
+#### EP-09: Sistema de Calificaciones, Reseñas y Reputación
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-07** | **Como:** Cliente o Propietario tras finalizar un periodo de alquiler.<br>**Quiero:** Otorgar una puntuación (1 a 5 estrellas) y dejar una reseña sobre la experiencia.<br>**Para:** Fomentar la transparencia, la confianza y la reputación dentro de la comunidad de Veygo. | **Dado que** el estado de la reserva cambia a "Completado",<br>**Cuando** cualquiera de las partes acceda al detalle de la reserva finalizada,<br>**Entonces** se habilitará un formulario de evaluación para calificar el servicio y publicar un comentario en el perfil del usuario. |

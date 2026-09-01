@@ -23,7 +23,22 @@ En esta sección se definen las Historias de Usuario (User Stories) estructurada
 
 | ID | Historia de Usuario | Criterios de Aceptación (BDD) |
 | :--- | :--- | :--- |
-| **US-01** | **Como:** Cliente o propietario registrado[cite: 2].<br>**Quiero:** Subir mi documento oficial de identidad (DNI) y Licencia de Conducir a la plataforma[cite: 2].<br>**Para:** Validar mi identidad antes de realizar transacciones de alquiler y generar confianza en la comunidad[cite: 2]. | **Dado que** el usuario registrado ingresa a su perfil y no cuenta con verificación de identidad[cite: 2],<br>**Cuando** cargue las fotos legibles del anverso y reverso de su DNI y Brevete vigente,<br>**Entonces** el sistema cambiará el estado de la cuenta a "En Verificación" y emitirá una notificación de confirmación al completar la validación. |
-| **US-02** | **Como:** Usuario registrado (Cliente o Propietario)[cite: 2].<br>**Quiero:** Iniciar sesión con mi correo electrónico y contraseña o autenticación rápida.<br>**Para:** Acceder de forma segura a mi perfil, publicaciones y reservas activas[cite: 2]. | **Dado que** el usuario ingresa a la pantalla de inicio de sesión[cite: 2],<br>**Cuando** ingrese credenciales válidas,<br>**Entonces** el sistema le otorgará acceso y lo redirigirá a su tablero principal según su rol. |
+| **US-01** | **Como:** Cliente o propietario registrado.<br>**Quiero:** Subir mi documento oficial de identidad (DNI) y Licencia de Conducir a la plataforma.<br>**Para:** Validar mi identidad antes de realizar transacciones de alquiler y generar confianza en la comunidad. | **Dado que** el usuario registrado ingresa a su perfil y no cuenta con verificación de identidad,<br>**Cuando** cargue las fotos legibles del anverso y reverso de su DNI y Brevete vigente,<br>**Entonces** el sistema cambiará el estado de la cuenta a "En Verificación" y emitirá una notificación de confirmación al completar la validación. |
+| **US-02** | **Como:** Usuario registrado (Cliente o Propietario).<br>**Quiero:** Iniciar sesión con mi correo electrónico y contraseña o autenticación rápida.<br>**Para:** Acceder de forma segura a mi perfil, publicaciones y reservas activas. | **Dado que** el usuario ingresa a la pantalla de inicio de sesión,<br>**Cuando** ingrese credenciales válidas,<br>**Entonces** el sistema le otorgará acceso y lo redirigirá a su tablero principal según su rol. |
+
+---
+#### EP-03: Búsqueda Geolocalizada y Mapa de Cercanía
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-03** | **Como:** Cliente (Arrendatario).<br>**Quiero:** Visualizar un mapa interactivo con la ubicación de autos y motos disponibles cerca de mi posición.<br>**Para:** Seleccionar y coordinar el punto de entrega más conveniente a mi ubicación. | **Dado que** el cliente otorga permisos de geolocalización a la aplicación,<br>**Cuando** acceda al mapa principal de búsqueda,<br>**Entonces** la plataforma desplegará marcadores interactivos mostrando los vehículos disponibles dentro de su radio geográfico. |
+
+---
+
+#### EP-04: Filtros Avanzados de Vehículos
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-04** | **Como:** Cliente con preferencias específicas de conducción.<br>**Quiero:** Filtrar el catálogo por tipo de transmisión (manual) y motorización (eléctrica).<br>**Para:** Encontrar rápidamente vehículos que se adapten a mis requerimientos de uso. | **Dado que** el cliente se encuentra en la pantalla de exploración de vehículos,<br>**Cuando** seleccione los filtros "Transmisión Manual" y "Motor Eléctrico",<br>**Entonces** el catálogo y el mapa actualizarán sus resultados mostrando únicamente los vehículos que cumplan ambos criterios. |
 
 ---

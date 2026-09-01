@@ -17,3 +17,13 @@ En esta sección se definen las Historias de Usuario (User Stories) estructurada
 | *EP-07* | Proceso de Reserva y Gestión de Solicitudes | Flujo completo para que el cliente solicite un vehículo, confirme fechas de alquiler y reciba la validación del propietario sin canales informales. |
 | *EP-08* | Panel Administrativo y Métricas para Propietarios | Dashboard privado para propietarios con visión general de vehículos activos, total de transacciones completadas e ingresos generados. |
 | *EP-09* | Sistema de Calificaciones, Reseñas y Reputación | Evaluaciones bidireccionales post-alquiler para construir confianza dentro del ecosistema de Veygo. |
+### 3.2.2. Detalle de Historias de Usuario
+
+#### EP-02: Registro, Autenticación y Verificación de Identidad
+
+| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
+| :--- | :--- | :--- |
+| **US-01** | **Como:** Cliente o propietario registrado[cite: 2].<br>**Quiero:** Subir mi documento oficial de identidad (DNI) y Licencia de Conducir a la plataforma[cite: 2].<br>**Para:** Validar mi identidad antes de realizar transacciones de alquiler y generar confianza en la comunidad[cite: 2]. | **Dado que** el usuario registrado ingresa a su perfil y no cuenta con verificación de identidad[cite: 2],<br>**Cuando** cargue las fotos legibles del anverso y reverso de su DNI y Brevete vigente,<br>**Entonces** el sistema cambiará el estado de la cuenta a "En Verificación" y emitirá una notificación de confirmación al completar la validación. |
+| **US-02** | **Como:** Usuario registrado (Cliente o Propietario)[cite: 2].<br>**Quiero:** Iniciar sesión con mi correo electrónico y contraseña o autenticación rápida.<br>**Para:** Acceder de forma segura a mi perfil, publicaciones y reservas activas[cite: 2]. | **Dado que** el usuario ingresa a la pantalla de inicio de sesión[cite: 2],<br>**Cuando** ingrese credenciales válidas,<br>**Entonces** el sistema le otorgará acceso y lo redirigirá a su tablero principal según su rol. |
+
+---

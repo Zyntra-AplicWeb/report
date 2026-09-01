@@ -17,49 +17,15 @@ En esta sección se definen las Historias de Usuario (User Stories) estructurada
 | *EP-07* | Proceso de Reserva y Gestión de Solicitudes | Flujo completo para que el cliente solicite un vehículo, confirme fechas de alquiler y reciba la validación del propietario sin canales informales. |
 | *EP-08* | Panel Administrativo y Métricas para Propietarios | Dashboard privado para propietarios con visión general de vehículos activos, total de transacciones completadas e ingresos generados. |
 | *EP-09* | Sistema de Calificaciones, Reseñas y Reputación | Evaluaciones bidireccionales post-alquiler para construir confianza dentro del ecosistema de Veygo. |
+
 ### 3.2.2. Detalle de Historias de Usuario
 
-#### EP-02: Registro, Autenticación y Verificación de Identidad
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-01** | **Como:** Cliente o propietario registrado.<br>**Quiero:** Subir mi documento oficial de identidad (DNI) y Licencia de Conducir a la plataforma.<br>**Para:** Validar mi identidad antes de realizar transacciones de alquiler y generar confianza en la comunidad. | **Dado que** el usuario registrado ingresa a su perfil y no cuenta con verificación de identidad,<br>**Cuando** cargue las fotos legibles del anverso y reverso de su DNI y Brevete vigente,<br>**Entonces** el sistema cambiará el estado de la cuenta a "En Verificación" y emitirá una notificación de confirmación al completar la validación. |
-| **US-02** | **Como:** Usuario registrado (Cliente o Propietario).<br>**Quiero:** Iniciar sesión con mi correo electrónico y contraseña o autenticación rápida.<br>**Para:** Acceder de forma segura a mi perfil, publicaciones y reservas activas. | **Dado que** el usuario ingresa a la pantalla de inicio de sesión,<br>**Cuando** ingrese credenciales válidas,<br>**Entonces** el sistema le otorgará acceso y lo redirigirá a su tablero principal según su rol. |
-
----
-#### EP-03: Búsqueda Geolocalizada y Mapa de Cercanía
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-03** | **Como:** Cliente (Arrendatario).<br>**Quiero:** Visualizar un mapa interactivo con la ubicación de autos y motos disponibles cerca de mi posición.<br>**Para:** Seleccionar y coordinar el punto de entrega más conveniente a mi ubicación. | **Dado que** el cliente otorga permisos de geolocalización a la aplicación,<br>**Cuando** acceda al mapa principal de búsqueda,<br>**Entonces** la plataforma desplegará marcadores interactivos mostrando los vehículos disponibles dentro de su radio geográfico. |
-
----
-
-#### EP-04: Filtros Avanzados de Vehículos
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-04** | **Como:** Cliente con preferencias específicas de conducción.<br>**Quiero:** Filtrar el catálogo por tipo de transmisión (manual) y motorización (eléctrica).<br>**Para:** Encontrar rápidamente vehículos que se adapten a mis requerimientos de uso. | **Dado que** el cliente se encuentra en la pantalla de exploración de vehículos,<br>**Cuando** seleccione los filtros "Transmisión Manual" y "Motor Eléctrico",<br>**Entonces** el catálogo y el mapa actualizarán sus resultados mostrando únicamente los vehículos que cumplan ambos criterios. |
-
----
-#### EP-06: Calendario Dinámico y Gestión de Disponibilidad
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-05** | **Como:** Propietario de un vehículo.<br>**Quiero:** Que el calendario del vehículo bloquee automáticamente las fechas confirmadas para alquiler.<br>**Para:** Evitar el cruce de fechas o dobles reservas sobre una misma unidad. | **Dado que** una reserva ha sido confirmada por el propietario,<br>**Cuando** un cliente consulte el calendario de disponibilidad de ese vehículo,<br>**Entonces** el sistema mostrará las fechas ocupadas en color rojo/deshabilitado e impedirá seleccionar ese rango de días. |
-
----
-
-#### EP-08: Panel Administrativo y Métricas para Propietarios
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-06** | **Como:** Propietario (Arrendador).<br>**Quiero:** Visualizar un panel administrativo con el resumen del total de vehículos activos y transacciones completadas.<br>**Para:** Monitorear el desempeño operativo y financiero de mi actividad de alquiler. | **Dado que** el propietario ingresa a la sección "Panel Administrativo",<br>**Cuando** cargue el tablero principal,<br>**Entonces** la interfaz presentará indicadores clave (KPIs) con el número de vehículos registrados, reservas completadas e ingresos acumulados. |
-
----
-
-#### EP-09: Sistema de Calificaciones, Reseñas y Reputación
-
-| ID | Historia de Usuario | Criterios de Aceptación (BDD) |
-| :--- | :--- | :--- |
-| **US-07** | **Como:** Cliente o Propietario tras finalizar un periodo de alquiler.<br>**Quiero:** Otorgar una puntuación (1 a 5 estrellas) y dejar una reseña sobre la experiencia.<br>**Para:** Fomentar la transparencia, la confianza y la reputación dentro de la comunidad de Veygo. | **Dado que** el estado de la reserva cambia a "Completado",<br>**Cuando** cualquiera de las partes acceda al detalle de la reserva finalizada,<br>**Entonces** se habilitará un formulario de evaluación para calificar el servicio y publicar un comentario en el perfil del usuario. |
+| ID | Título | Descripción | Criterios de aceptación | EpicID |
+| :--- | :--- | :--- | :--- | :--- |
+| **US01** | Verificación de Identidad de Usuarios | Como usuario registrado (cliente o propietario), quiero subir mi documento oficial (DNI) y Licencia de Conducir, para validar mi identidad antes de realizar transacciones y generar confianza en la comunidad. | **Escenario 1: Carga de documentos de identidad**<br>**Dado que** el usuario registrado ingresa a su perfil y no está verificado<br>**Cuando** cargue las fotos legibles del anverso y reverso de su DNI y Brevete vigente<br>**Entonces** el sistema cambiará el estado de la cuenta a "En Verificación" y enviará una notificación al validar la cuenta. | EP-02 |
+| **US02** | Inicio de Sesión Seguro | Como usuario registrado (cliente o propietario), quiero iniciar sesión con mis credenciales, para acceder de forma segura a mi perfil, publicaciones y reservas activas. | **Escenario 1: Autenticación exitosa**<br>**Dado que** el usuario ingresa a la pantalla de inicio de sesión<br>**Cuando** ingrese sus credenciales válidas<br>**Entonces** el sistema le otorgará acceso y lo redirigirá a su panel principal según su rol. | EP-02 |
+| **US03** | Búsqueda de Vehículos Cercanos en Mapa | Como cliente (arrendatario), quiero visualizar un mapa interactivo con autos y motos disponibles cerca de mi posición, para seleccionar el punto de entrega más conveniente. | **Escenario 1: Visualización geolocalizada**<br>**Dado que** el cliente otorga permisos de geolocalización a la aplicación<br>**Cuando** acceda a la vista principal del mapa<br>**Entonces** la plataforma desplegará marcadores interactivos mostrando los vehículos disponibles dentro de su radio cercano. | EP-03 |
+| **US04** | Filtrado por Transmisión y Tipo de Energía | Como cliente con preferencias específicas de conducción, quiero filtrar los vehículos por tipo de transmisión (manual) y motorización (eléctrica), para encontrar rápidamente opciones que se adapten a mi uso. | **Escenario 1: Aplicación de filtros combinados**<br>**Dado que** el cliente se encuentra en la pantalla de exploración<br>**Cuando** seleccione los filtros "Transmisión Manual" y "Motor Eléctrico"<br>**Entonces** el catálogo y el mapa actualizarán sus resultados mostrando únicamente los vehículos que cumplan ambos criterios. | EP-04 |
+| **US05** | Sincronización Automática de Disponibilidad | Como propietario de un vehículo, quiero que el calendario bloquee automáticamente las fechas confirmadas para alquiler, para evitar el cruce de fechas o dobles reservas sobre una misma unidad. | **Escenario 1: Bloqueo de fechas ocupadas**<br>**Dado que** una reserva ha sido confirmada por el propietario<br>**Cuando** un cliente consulte el calendario de disponibilidad de ese vehículo<br>**Entonces** el sistema mostrará las fechas ocupadas deshabilitadas e impedirá seleccionar ese rango de días. | EP-06 |
+| **US06** | Métricas de Flota y Transacciones | Como propietario (arrendador), quiero visualizar un panel administrativo con el resumen de mis vehículos activos y transacciones completadas, para monitorear el desempeño de mi actividad de alquiler. | **Escenario 1: Visualización del panel de control**<br>**Dado que** el propietario ingresa a la sección "Panel Administrativo"<br>**Cuando** cargue el tablero principal<br>**Entonces** la interfaz presentará tarjetas dinámicas con el número de vehículos registrados, reservas completadas e ingresos acumulados. | EP-08 |
+| **US07** | Evaluación Mutua Post-Alquiler | Como cliente o propietario tras finalizar un alquiler, quiero otorgar una puntuación (1 a 5 estrellas) y dejar una reseña, para fomentar la transparencia y reputación en la comunidad. | **Escenario 1: Publicación de calificación**<br>**Dado que** el estado de la reserva cambia a "Completado"<br>**Cuando** cualquiera de las partes acceda al detalle de la reserva finalizada<br>**Entonces** se habilitará un formulario para calificar el servicio y publicar un comentario en el perfil del usuario. | EP-09 |

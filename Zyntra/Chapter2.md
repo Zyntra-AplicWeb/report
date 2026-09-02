@@ -179,17 +179,37 @@ Actualmente usa sobre todo páginas web y redes sociales para buscar vehículos,
 
 
 **Entrevista 2**
-Nombre completo: 
-Edad:
-Papel desempeñado:
-Distrito: 
 
+Nombre completo: Summy Callaca
+
+Edad: 22 años
+
+Papel desempeñado: Arrendataria
+
+Distrito: Oxapampa
+
+Ocupación: Estudia y trabaja
 
 **Detalles de la entrevista:**
 
+![Foto Entrevista](assets/img/Entrevista-Segmento1-2.png) <br>
+[[URL de la entrevista](https://www.youtube.com/watch?v=uFiH1nisYHM)] — Duración de la entrevista: [6:26]
 
 **Transcripción resumen de entrevista:**
 
+Summy prefiere alquilar vehículos de transmisión manual porque considera que le permiten tener mayor control sobre el vehículo, para realizar un alquiler, indica que normalmente le solicitan DNI, licencia de conducir vigente y un documento que permita acreditar su domicilio, como un recibo de luz. Asimismo, menciona que debe cumplir con los requisitos establecidos para utilizar el vehículo.
+
+Respecto a la **verificación de identidad**, se muestra cómoda con este proceso mientras la documentación se encuentre en regla, también considera que confiaría más en un arrendador si su identidad hubiera sido verificada por la plataforma, ya que esto le generaría mayor credibilidad y seguridad para entregar su documentación.
+
+En relación con la **disponibilidad de los vehículos**, señala que suele consultar con anticipación dependiendo de la actividad que realizará, también considera que el tamaño del vehículo debe adaptarse a la cantidad de personas que viajarán. Manifiesta que le resulta muy frustrante que un vehículo que aparentemente estaba disponible finalmente no lo esté, debido a que organiza sus planes en función de haber conseguido dicho vehículo.
+
+En cuanto al **filtrado de vehículos**, toma en cuenta principalmente el estado del vehículo y la cantidad de asientos. Además, considera que contar con filtros específicos para características como el tipo de transmisión facilitaría la búsqueda.
+
+Sobre la **ubicación y entrega**, considera conveniente que el punto de entrega se encuentre cerca de su ubicación, sin embargo, señala que también es importante que el lugar sea seguro y verificable. Prefiere que la entrega se realice en un establecimiento o punto identificable, ya que esto le genera mayor credibilidad que una entrega en un lugar sin referencias claras, asimismo, considera útil poder visualizar los vehículos disponibles más cercanos mediante un mapa.
+
+Actualmente no suele utilizar plataformas especializadas para buscar vehículos, principalmente recurre a establecimientos locales y redes sociales, también manifiesta preocupación por la seguridad y por la falta de verificación de los requisitos de las personas que ofrecen vehículos mediante estos medios.
+
+Finalmente, se muestra dispuesta a utilizar **Veygo** si la plataforma integra verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo y mapa de cercanía. Como condición adicional, señala que le generaría mayor confianza contar con un punto de atención presencial cercano a su lugar de residencia.
 
 **Segmento Objetivo 2: Propietarios particulares (arrendadores)**
 

@@ -177,7 +177,6 @@ Sobre el **mapa de cercanía**, considera muy importante que el vehículo esté 
  
 Actualmente usa sobre todo páginas web y redes sociales para buscar vehículos, y siente que estas plataformas no siempre brindan suficiente información sobre el vehículo o sobre la persona que alquila, lo que genera desconfianza. Ante esto, se mostró dispuesto a usar Veygo, señalando que integra funcionalidades útiles que facilitarían el proceso de alquiler de un vehículo.
 
-
 **Entrevista 2**
 
 Nombre completo: Summy Callaca
@@ -210,6 +209,41 @@ Sobre la **ubicación y entrega**, considera conveniente que el punto de entrega
 Actualmente no suele utilizar plataformas especializadas para buscar vehículos, principalmente recurre a establecimientos locales y redes sociales, también manifiesta preocupación por la seguridad y por la falta de verificación de los requisitos de las personas que ofrecen vehículos mediante estos medios.
 
 Finalmente, se muestra dispuesta a utilizar **Veygo** si la plataforma integra verificación de identidad, calendario en tiempo real, filtros por tipo de vehículo y mapa de cercanía. Como condición adicional, señala que le generaría mayor confianza contar con un punto de atención presencial cercano a su lugar de residencia.
+
+**Entrevista 3**
+
+Nombre completo: Diego León
+
+Edad: 21 años
+
+Papel desempeñado: Arrendatario
+
+Distrito: Salamanca, Lima
+
+Ocupación: Trabaja en un negocio familiar
+
+**Detalles de la entrevista:**
+
+![Foto Entrevista](assets/img/Entrevista-Segmento1-3.png) <br>
+[[URL de la entrevista](https://drive.google.com/file/d/1qEhT1fvgC09HdDXzRPTrgDkUVPTtdTVm/view?usp=drive_link)] — Duración de la entrevista: [9:25]
+
+**Transcripción resumen de entrevista:**
+
+Diego señala que, para alquilar un vehículo, normalmente le solicitan su licencia de conducir, asimismo, menciona que existen restricciones relacionadas con la edad, la licencia de conducir, el seguro y dependiendo del caso el depósito o el uso de una tarjeta.
+
+Respecto al **tipo de vehículo**, prefiere los autos de transmisión manual porque considera que suelen ser más económicos y le permiten tener mayor control sobre la conducción. También menciona que la disponibilidad de lugares para cargar vehículos eléctricos en Perú puede ser una limitación, por lo que actualmente prefiere los vehículos manuales.
+
+En relación con la **verificación de identidad**, manifiesta cierta incomodidad cuando se solicitan demasiados datos o documentos, ya que considera que este proceso puede dificultar el alquiler. Sin embargo, señala que confiaría más en un propietario si la plataforma hubiera verificado previamente su identidad, porque esto reduciría el riesgo de posibles estafas.
+
+Sobre el **calendario de disponibilidad**, indica que suele consultar con anticipación si el vehículo se encuentra disponible para las fechas que necesita, ya que esto le permite organizar mejor sus actividades, cuando un vehículo aparece como disponible y posteriormente no lo está, considera que la situación resulta frustrante, aunque menciona que en algunos casos puede optar por otro vehículo.
+
+En cuanto al **filtrado de vehículos**, toma en cuenta principalmente la transmisión, el tipo de combustible, el tamaño y el modelo. Prefiere vehículos mecánicos y de tamaño moderado debido a las condiciones de Lima, especialmente por la dificultad para estacionar, también considera importante que el vehículo tenga aire acondicionado y un consumo reducido de combustible. Además, considera útil contar con filtros específicos para vehículos eléctricos y de transmisión manual.
+
+Respecto a la **ubicación**, considera muy importante que el vehículo se encuentre cerca de su posición, ya que no le resulta conveniente tener que desplazarse durante varias horas para recogerlo, también valora la posibilidad de recibir el vehículo mediante entrega a domicilio, en este sentido, considera que un mapa que permita visualizar los vehículos disponibles cercanos sería una funcionalidad útil.
+
+Actualmente utiliza principalmente su **teléfono celular** para acceder a plataformas digitales y, en algunas ocasiones, una computadora cuando se encuentra acompañado de familiares o amigos, también menciona haber utilizado plataformas como Kayak para buscar vehículos y considera que estas permiten consultar información como el año, modelo, propietario y precio, además de aplicar filtros de búsqueda.
+
+Finalmente, señala que estaría dispuesto a utilizar **Veygo**, principalmente porque la verificación de identidad podría reducir el riesgo de interactuar con personas poco confiables, también considera útil contar con un calendario que permita conocer las fechas disponibles y un sistema de ubicación que facilite encontrar vehículos cercanos.
 
 **Segmento Objetivo 2: Propietarios particulares (arrendadores)**
 
